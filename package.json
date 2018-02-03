@@ -17,6 +17,7 @@
   "author": "@anamariasosam",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.0",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
     "mongoose": "^4.13.5"
